@@ -31,5 +31,5 @@ dependencies:
 ## 👤 Author
 
 **Md. Shoaib**  
-📧 Email: shoaibcsecu@gmail.com
+📧 Email: shoaibcsecu@gmail.com  
 🔗 GitHub: [Md. Shoaib](https://github.com/S-h-o-a-i-b)
