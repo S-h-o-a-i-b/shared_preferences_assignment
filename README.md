@@ -1,16 +1,35 @@
-# shared_preferences_assignment
+# HomePage App (Flutter)
 
-A new Flutter project.
+This is a simple Flutter app that allows users to enter and save their name and email using SharedPreferences.
+The saved data is loaded automatically when the app starts.
 
-## Getting Started
+## Features
+- Save username and email locally using `SharedPreferences`.
+- Validate email input.
+- Display saved information on the screen.
+- Show error messages using `Get.snackbar()`.
 
-This project is a starting point for a Flutter application.
+## 📸 App Preview
+![HomePage](assets/images/101.png)
 
-A few resources to get you started if this is your first Flutter project:
+## 👉 Live Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://s-h-o-a-i-b.github.io/shared_preferences_assignment/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Dependencies
+Make sure to add the required package in `pubspec.yaml`:
+```yaml
+dependencies:
+  flutter:dependencies:
+  flutter:
+    sdk: flutter
+  get: latest_version
+  shared_preferences: latest_version
+```
+
+
+## 👤 Author
+
+**Md. Shoaib**  
+📧 Email: shoaibcsecu@gmail.com
+🔗 GitHub: [Md. Shoaib](https://github.com/S-h-o-a-i-b)
