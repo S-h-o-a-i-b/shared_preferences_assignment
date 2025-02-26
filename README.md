@@ -9,8 +9,12 @@ The saved data is loaded automatically when the app starts.
 - Display saved information on the screen.
 - Show error messages using `Get.snackbar()`.
 
-## 📸 App Preview
-![HomePage](assets/images/101.png)
+## 📸 Screenshots
+
+| Home Page                           |
+|-------------------------------------|
+| ![Home](assets/screenshots/101.png) |
+
 
 ## 👉 Live Demo
 
