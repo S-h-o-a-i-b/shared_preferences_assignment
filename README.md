@@ -11,9 +11,9 @@ The saved data is loaded automatically when the app starts.
 
 ## 📸 Screenshots
 
-| Home Page                      |
-|--------------------------------|
-| ![Home](assets/images/101.png) |
+| Home Page                       |
+|---------------------------------|
+| ![Home](assets/images/home.png) |
 
 
 ## 👉 Live Demo
